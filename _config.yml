@@ -1,0 +1,28 @@
+name: packaging
+favicon: null
+layout_spectrum: 0.3886449721176177
+typography_spectrum: 0.8100419805850834
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7514000134542584
+  lightness: 0.3488258149009198
+  saturation: 0.12278312467969954
+  rhythmicContrast: 0.5139921351801604
+purpose: []
